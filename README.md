@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Github Projects**
 
-- 🌱 I’m currently learning **Spring Boot, PostgreSQL, Maching Learning** 
+- 🌱 I’m currently learning **MATLAB, Image and Video Processing, Maching Learning** 
 
-- 💬 Talk to me about **Data Science, JavaScript, ReactJS, ExpressJS and Spring frameworks**
+- 💬 Talk to me about **Data Science, Machine Learning, Biotechnology related**
 
 <br/>
 <hr/>
