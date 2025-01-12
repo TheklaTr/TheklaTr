@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Github Projects**
 
-- 🌱 I’m currently learning **MATLAB, Image and Video Processing, Maching Learning** 
+- 🌱 I’m currently learning **MATLAB, Medical Image Processing, Signal Processing, Image and Video Processing, Maching Learning, Deep Learning, Computer Vision and NLP** 
 
-- 💬 Talk to me about **Data Science, Machine Learning, Biotechnology related**
+- 💬 Talk to me about **Biomedical Engineering and Informatics, Data Science, Machine Learning, Biotechnology related**
 
 <br/>
 <hr/>
